@@ -2,7 +2,8 @@ Beatriz Ferreira Dias
 
 Git init - O comando git init cria um novo repositório do Git.
 Git config -O comando git config é a função conveniente usada para definir valores de configuração do Git em projetos de nível global ou local.
-Git config --global user.name - configurar seu nome de usuário.
-Git config --global user.email - configurar seu endereço de e-mail.
-Git remote add origin - para adicionar um origin para o repositório se não existe nenhum.
+Git config --global user.name - Configurar seu nome de usuário.
+Git config --global user.email - Configurar seu endereço de e-mail.
+Git remote add origin - Para adicionar um origin para o repositório se não existe nenhum.
 Git status - Verifica quais os estados que os arquivos estão. Se existe algum arquivo modificado, adiciona ou removido.  
+Git log - Você pode visualizar o que vem sendo feito em uma determinada branch ou avaliar as alterações de um arquivo em especial.
