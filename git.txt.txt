@@ -1,3 +1,4 @@
 Beatriz Ferreira Dias
 
 Git init - O comando git init cria um novo repositório do Git.
+Git config -O comando git config é a função conveniente usada para definir valores de configuração do Git em projetos de nível global ou local.
