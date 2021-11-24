@@ -9,3 +9,4 @@ Git status - Verifica quais os estados que os arquivos estão. Se existe algum a
 Git log - Você pode visualizar o que vem sendo feito em uma determinada branch ou avaliar as alterações de um arquivo em especial.
 Git add - “adicionar conteúdo” (propor uma mudança qualquer, seja ela alterar, adicionar ou remover um conteúdo).
 Git commit - Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git.
+Git push -  É mais usado para publicar modificações locais a um repositório central.
